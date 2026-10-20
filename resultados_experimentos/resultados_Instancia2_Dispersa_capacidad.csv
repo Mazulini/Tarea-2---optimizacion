@@ -1,0 +1,9 @@
+Configuracion,Valor_Objetivo,Gap_%,Tiempo_s,Brecha_Integralidad_%
+LP Relax,571.2900,-,-,-
+Baseline,899.6400,0.01,8.07,36.50
+No_Cuts,899.6400,0.00,27.96,-
+No_Presolve,899.6400,0.00,127.60,-
+MIPFocus_1,899.6400,0.00,11.38,-
+MIPFocus_3,899.6400,0.01,14.35,-
+No_Heuristics,899.6400,0.00,7.21,-
+Tuning_Gurobi,899.6400,0.01,293.66,-
